@@ -23,6 +23,6 @@ This script uses the standard library, so no external packages are required.
 Clone this repository and run the script:
 
 ```bash
-git clone https://github.com/your-username/turtle-random-walk.git
+git clone https://github.com/Mahe7Noor/Random_Turtle_Walk.git
 cd turtle-random-walk
 python turtle_random_walk.py
